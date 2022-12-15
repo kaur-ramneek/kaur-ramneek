@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kaur-ramneek
 - 👀 I’m interested in Electrical and Computer Engineering
-- 🌱 I’m currently learning Data Mining.
 - 💞️ I’m looking to collaborate on projects involved in datamining, energyindustry, computerscience, and machinelearning
 - 📫 How to reach me ramneek.kaur@ucalgary.ca
 
